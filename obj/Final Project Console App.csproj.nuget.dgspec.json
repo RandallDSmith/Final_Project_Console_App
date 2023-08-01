@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding School\\repos\\Final Project Console App\\Final Project Console App.csproj": {}
+    "D:\\Coding School\\repos\\Final_Project_Console_App\\Final Project Console App.csproj": {}
   },
   "projects": {
-    "D:\\Coding School\\repos\\Final Project Console App\\Final Project Console App.csproj": {
+    "D:\\Coding School\\repos\\Final_Project_Console_App\\Final Project Console App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding School\\repos\\Final Project Console App\\Final Project Console App.csproj",
+        "projectUniqueName": "D:\\Coding School\\repos\\Final_Project_Console_App\\Final Project Console App.csproj",
         "projectName": "Final Project Console App",
-        "projectPath": "D:\\Coding School\\repos\\Final Project Console App\\Final Project Console App.csproj",
+        "projectPath": "D:\\Coding School\\repos\\Final_Project_Console_App\\Final Project Console App.csproj",
         "packagesPath": "C:\\Users\\rdsmi\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding School\\repos\\Final Project Console App\\obj\\",
+        "outputPath": "D:\\Coding School\\repos\\Final_Project_Console_App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rdsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
