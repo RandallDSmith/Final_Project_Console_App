@@ -1,0 +1,18 @@
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Final Project Console App.exe
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Final Project Console App.deps.json
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Final Project Console App.runtimeconfig.json
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Final Project Console App.dll
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Final Project Console App.pdb
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\RestSharp.dll
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.csproj.AssemblyReference.cache
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.AssemblyInfoInputs.cache
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.AssemblyInfo.cs
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.csproj.CoreCompileInputs.cache
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.csproj.CopyComplete
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.dll
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\refint\Final Project Console App.dll
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.pdb
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\Final Project Console App.genruntimeconfig.cache
+D:\Coding School\repos\Final Project Console App\obj\Debug\net7.0\ref\Final Project Console App.dll
+D:\Coding School\repos\Final Project Console App\bin\Debug\net7.0\Newtonsoft.Json.dll

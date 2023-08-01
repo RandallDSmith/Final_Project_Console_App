@@ -1,0 +1,466 @@
+{
+  {
+    "cardId": "c4cbb4b6-ceba-4b14-8e28-ad2b590ccd59",
+    "name": "Aegislash V",
+    "cardNumber": "126",
+    "setNumber": "185",
+    "setId": "33ee55f4-30d0-4900-850f-36a351fb9719",
+    "set": "vivid-voltage",
+    "series": "sword-and-shield",
+    "variant": "DEFAULT",
+    "superType": "pokémon",
+    "types": [ "metal" ],
+    "subTypes": [ "basic", "v" ],
+    "rarity": "rare-holo-v",
+    "pokemon": [ "aegislash" ],
+    "artist": "aky CG Works",
+    "minSoldPrice": {
+      "amountInMinorUnits": 94,
+      "currencyCode": "GBP"
+    },
+    "lowSoldPrice": {
+      "amountInMinorUnits": 129,
+      "currencyCode": "GBP"
+    },
+    "soldPrice": {
+      "amountInMinorUnits": 169,
+      "currencyCode": "GBP"
+    },
+    "highSoldPrice": {
+      "amountInMinorUnits": 209,
+      "currencyCode": "GBP"
+    },
+    "maxSoldPrice": {
+      "amountInMinorUnits": 225,
+      "currencyCode": "GBP"
+    },
+    "soldVolume": 13,
+    "soldLastUpdatedAt": "2023-07-24T04:56:03.897Z",
+    "minListingPrice": {
+      "amountInMinorUnits": 89,
+      "currencyCode": "GBP"
+    },
+    "lowListingPrice": {
+      "amountInMinorUnits": 1,
+      "currencyCode": "GBP"
+    },
+    "listingPrice": {
+      "amountInMinorUnits": 199,
+      "currencyCode": "GBP"
+    },
+    "highListingPrice": {
+      "amountInMinorUnits": 3543,
+      "currencyCode": "GBP"
+    },
+    "maxListingPrice": {
+      "amountInMinorUnits": 25000,
+      "currencyCode": "GBP"
+    },
+    "listingVolume": 54,
+    "listingLastUpdatedAt": "2023-07-24T04:56:08.783Z",
+    "prices": {
+      "ebay": [
+        {
+          "currencyCode": "GBP",
+          "priceType": "SALE",
+          "currenciesUsed": [ "GBP" ],
+          "lastUpdatedAt": "2023-07-24T04:56:03.894Z",
+          "periodSizeDays": 14,
+          "volume": 1,
+          "stdDev": {
+            "amountInMinorUnits": 0,
+            "currencyCode": "GBP"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          },
+          "median": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          },
+          "mean": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 195,
+            "currencyCode": "GBP"
+          }
+        },
+        {
+          "currencyCode": "GBP",
+          "priceType": "SALE",
+          "currenciesUsed": [ "GBP" ],
+          "lastUpdatedAt": "2023-07-24T04:56:03.897Z",
+          "periodSizeDays": 90,
+          "volume": 13,
+          "stdDev": {
+            "amountInMinorUnits": 40,
+            "currencyCode": "GBP"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 94,
+            "currencyCode": "GBP"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 125,
+            "currencyCode": "GBP"
+          },
+          "median": {
+            "amountInMinorUnits": 169,
+            "currencyCode": "GBP"
+          },
+          "mean": {
+            "amountInMinorUnits": 163,
+            "currencyCode": "GBP"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 190,
+            "currencyCode": "GBP"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 225,
+            "currencyCode": "GBP"
+          }
+        },
+        {
+          "currencyCode": "GBP",
+          "priceType": "LISTING",
+          "currenciesUsed": [ "GBP" ],
+          "lastUpdatedAt": "2023-07-24T04:56:08.783Z",
+          "periodSizeDays": 1,
+          "volume": 54,
+          "stdDev": {
+            "amountInMinorUnits": 3344,
+            "currencyCode": "GBP"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 89,
+            "currencyCode": "GBP"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 130,
+            "currencyCode": "GBP"
+          },
+          "median": {
+            "amountInMinorUnits": 199,
+            "currencyCode": "GBP"
+          },
+          "mean": {
+            "amountInMinorUnits": 663,
+            "currencyCode": "GBP"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 250,
+            "currencyCode": "GBP"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 25000,
+            "currencyCode": "GBP"
+          }
+        },
+        {
+          "currencyCode": "GBP",
+          "priceType": "LISTING",
+          "currenciesUsed": [ "GBP" ],
+          "lastUpdatedAt": "2023-07-24T04:56:08.790Z",
+          "periodSizeDays": 14,
+          "volume": 59,
+          "stdDev": {
+            "amountInMinorUnits": 3203,
+            "currencyCode": "GBP"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 89,
+            "currencyCode": "GBP"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 125,
+            "currencyCode": "GBP"
+          },
+          "median": {
+            "amountInMinorUnits": 199,
+            "currencyCode": "GBP"
+          },
+          "mean": {
+            "amountInMinorUnits": 617,
+            "currencyCode": "GBP"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 250,
+            "currencyCode": "GBP"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 25000,
+            "currencyCode": "GBP"
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "priceType": "SALE",
+          "currenciesUsed": [ "USD" ],
+          "lastUpdatedAt": "2023-07-24T04:56:03.894Z",
+          "periodSizeDays": 14,
+          "volume": 1,
+          "stdDev": {
+            "amountInMinorUnits": 0,
+            "currencyCode": "USD"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "median": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "mean": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "priceType": "SALE",
+          "currenciesUsed": [ "USD" ],
+          "lastUpdatedAt": "2023-07-24T04:56:03.896Z",
+          "periodSizeDays": 90,
+          "volume": 14,
+          "stdDev": {
+            "amountInMinorUnits": 54,
+            "currencyCode": "USD"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 31,
+            "currencyCode": "USD"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 75,
+            "currencyCode": "USD"
+          },
+          "median": {
+            "amountInMinorUnits": 100,
+            "currencyCode": "USD"
+          },
+          "mean": {
+            "amountInMinorUnits": 110,
+            "currencyCode": "USD"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 120,
+            "currencyCode": "USD"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 275,
+            "currencyCode": "USD"
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "priceType": "LISTING",
+          "currenciesUsed": [ "USD" ],
+          "lastUpdatedAt": "2023-07-24T04:56:08.788Z",
+          "periodSizeDays": 1,
+          "volume": 100,
+          "stdDev": {
+            "amountInMinorUnits": 227,
+            "currencyCode": "USD"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 99,
+            "currencyCode": "USD"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 149,
+            "currencyCode": "USD"
+          },
+          "median": {
+            "amountInMinorUnits": 199,
+            "currencyCode": "USD"
+          },
+          "mean": {
+            "amountInMinorUnits": 250,
+            "currencyCode": "USD"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 296,
+            "currencyCode": "USD"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 1700,
+            "currencyCode": "USD"
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "priceType": "LISTING",
+          "currenciesUsed": [ "USD" ],
+          "lastUpdatedAt": "2023-07-24T04:56:08.794Z",
+          "periodSizeDays": 14,
+          "volume": 108,
+          "stdDev": {
+            "amountInMinorUnits": 244,
+            "currencyCode": "USD"
+          },
+          "minPrice": {
+            "amountInMinorUnits": 65,
+            "currencyCode": "USD"
+          },
+          "firstQuartile": {
+            "amountInMinorUnits": 135,
+            "currencyCode": "USD"
+          },
+          "median": {
+            "amountInMinorUnits": 199,
+            "currencyCode": "USD"
+          },
+          "mean": {
+            "amountInMinorUnits": 254,
+            "currencyCode": "USD"
+          },
+          "thirdQuartile": {
+            "amountInMinorUnits": 296,
+            "currencyCode": "USD"
+          },
+          "maxPrice": {
+            "amountInMinorUnits": 1700,
+            "currencyCode": "USD"
+          }
+        }
+      ],
+      "cardMarket": [
+        {
+          "currencyCode": "GBP",
+          "currencyCodeUsed": "EUR",
+          "lastUpdatedAt": "2023-07-23T00:00:00.000Z",
+          "lowPrice": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 34
+          },
+          "averageSellPrice": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 81
+          },
+          "trendPrice": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 67
+          },
+          "averageOneDay": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 63
+          },
+          "averageSevenDay": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 71
+          },
+          "averageThirtyDay": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 84
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "currencyCodeUsed": "EUR",
+          "lastUpdatedAt": "2023-07-23T00:00:00.000Z",
+          "lowPrice": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 44
+          },
+          "averageSellPrice": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 104
+          },
+          "trendPrice": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 86
+          },
+          "averageOneDay": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 81
+          },
+          "averageSevenDay": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 92
+          },
+          "averageThirtyDay": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 109
+          }
+        }
+      ],
+      "tcgPlayer": [
+        {
+          "currencyCode": "GBP",
+          "currencyCodeUsed": "USD",
+          "lastUpdatedAt": "2023-07-23T00:00:00.000Z",
+          "low": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 18
+          },
+          "mid": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 77
+          },
+          "high": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 448
+          },
+          "directLow": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 46
+          },
+          "market": {
+            "currencyCode": "GBP",
+            "amountInMinorUnits": 47
+          }
+        },
+        {
+          "currencyCode": "USD",
+          "currencyCodeUsed": "USD",
+          "lastUpdatedAt": "2023-07-23T00:00:00.000Z",
+          "low": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 24
+          },
+          "mid": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 100
+          },
+          "high": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 577
+          },
+          "directLow": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 60
+          },
+          "market": {
+            "currencyCode": "USD",
+            "amountInMinorUnits": 61
+          }
+        }
+      ]
+    }
+  }
+}
