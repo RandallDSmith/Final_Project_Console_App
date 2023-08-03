@@ -24,12 +24,20 @@ namespace Final_Project_Console_App
 
             var response = client.Execute(request).Content;
 
-            Console.WriteLine(response);
+            //Console.WriteLine(response);
 
-            var newCardInfo = JsonConvert.DeserializeObject<CardInfo>(response);
+            var newCardInfo = JsonConvert.DeserializeObject<Root>(response);
 
-
-            Console.WriteLine($"{newCardInfo}");
+            foreach( var card in newCardInfo.basicInfo)
+            {
+                Console.WriteLine($"{card.name}");
+                Console.WriteLine($"{card.variant}");
+                Console.WriteLine($"{card.highSoldPrice}");
+                Console.WriteLine($"{card.lowSoldPrice}");
+                Console.WriteLine($"{card.listingPrice}");
+                Console.WriteLine($"{card.rarity}");
+            }  
+            
            
         }
     }

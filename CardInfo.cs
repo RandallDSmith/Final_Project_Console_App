@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Final_Project_Console_App
 {
     public class CardInfo
@@ -191,7 +192,7 @@ namespace Final_Project_Console_App
             public List<TcgPlayer>? tcgPlayer { get; set; }
         }
 
-       public class Root
+       public class Base
         {
             public string? cardId { get; set; }
             public string? name { get; set; }
