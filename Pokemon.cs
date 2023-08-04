@@ -28,7 +28,7 @@ namespace Final_Project_Console_App
 
             var newCardInfo = JsonConvert.DeserializeObject<Root>(response);
 
-            foreach( var card in newCardInfo.basicInfo)
+            foreach( var card in newCardInfo)
             {
                 Console.WriteLine($"{card.name}");
                 Console.WriteLine($"{card.variant}");

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Final_Project_Console_App.Classes;
 using static Final_Project_Console_App.CardInfo;
 
 namespace Final_Project_Console_App
 {
-    public class BasicInfo
+    public class Base
     {
-       // public BasicInfo() { }
         public string? cardId { get; set; }
         public string? name { get; set; }
         public string? cardNumber { get; set; }
@@ -40,6 +40,6 @@ namespace Final_Project_Console_App
         public DateTime? listingLastUpdatedAt { get; set; }
         public Prices? prices { get; set; }
 
-       
+
     }
 }
