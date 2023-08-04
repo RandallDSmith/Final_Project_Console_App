@@ -10,6 +10,7 @@ namespace Final_Project_Console_App
     public class Root
     {
         public List<Base>? basicInfo { get; set; }
+        /*
         public AverageOneDay? averageOneDay { get; set; }
         public AverageSellPrice? averageSellDay { get; set; }
         public AverageSevenDay? averageSevenDay { get; set; }
@@ -43,6 +44,6 @@ namespace Final_Project_Console_App
         public ThirdQuartile? thirdQuartile { get; set; }
         public TrendPrice? trendPrice { get; set; }
 
-
+        */
     }
 }

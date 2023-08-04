@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Final_Project_Console_App.CardInfo;
+
 
 namespace Final_Project_Console_App.Classes
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Final_Project_Console_App.Classes;
-using static Final_Project_Console_App.CardInfo;
+
 
 namespace Final_Project_Console_App
 {

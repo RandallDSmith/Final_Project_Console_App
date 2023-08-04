@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Final_Project_Console_App.Classes;
-using static Final_Project_Console_App.CardInfo;
+
 
 namespace Final_Project_Console_App
 {
@@ -20,7 +20,7 @@ namespace Final_Project_Console_App
         public MinPrice? minPrice { get; set; }
         public FirstQuartile? firstQuartile { get; set; }
         public Median? median { get; set; }
-        public CardInfo.Mean? mean { get; set; }
+        public Mean? mean { get; set; }
         public ThirdQuartile? thirdQuartile { get; set; }
         public MaxPrice? maxPrice { get; set; }
 
