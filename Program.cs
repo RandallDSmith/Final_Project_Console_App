@@ -16,9 +16,11 @@ public class Program
     {
         Console.WriteLine("Please enter your card name");
         var cardName = Console.ReadLine();
+        Console.WriteLine("Please enter your card number");
+        string cardNumber = Console.ReadLine();
 
 
-        Pokemon.PokemonCard(cardName);
+        Pokemon.PokemonCard(cardName, cardNumber);
         
     }
 }

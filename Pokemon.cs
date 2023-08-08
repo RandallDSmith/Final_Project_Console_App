@@ -7,14 +7,15 @@ using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 using RestSharp;
 using System.Collections;
+using static Final_Project_Console_App.CardInfo;
 
 namespace Final_Project_Console_App
 {
     public class Pokemon
     {
-        public static void  PokemonCard(string cardName)
+        public static void  PokemonCard(string cardName, string cardNumber)
         {
-            var client = new RestClient($"https://pokemon-tcg-card-prices.p.rapidapi.com/card?name={cardName}");
+            var client = new RestClient($"https://pokemon-tcg-card-prices.p.rapidapi.com/card?cardNumber={cardNumber}&name={cardName}");
 
             var request = new RestRequest();
 
@@ -26,19 +27,23 @@ namespace Final_Project_Console_App
 
             //Console.WriteLine(response);
 
-            var newCardInfo = JsonConvert.DeserializeObject<Root>(response);
+            Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(response);
 
-            foreach( var card in newCardInfo.basicInfo)
-            {
-                Console.WriteLine($"{card.name}");
-                Console.WriteLine($"{card.variant}");
-                Console.WriteLine($"{card.highSoldPrice}");
-                Console.WriteLine($"{card.lowSoldPrice}");
-                Console.WriteLine($"{card.listingPrice}");
-                Console.WriteLine($"{card.rarity}");
-            }  
             
-           
+
+
+            foreach ( var card in myDeserializedClass?.results)
+            {
+                Console.WriteLine($"Card Name: {card?.name}");
+                Console.WriteLine($"Card Variant: {card?.variant}");
+                Console.WriteLine($"Card Number:  {card?.cardNumber}");
+                Console.WriteLine($"Card Rarity:  {card?.rarity}");
+                Console.WriteLine($"Card ID:  {card?.cardId}");
+                decimal price = (decimal)card?.prices.tcgPlayer[1].market.amountInMinorUnits / 100;
+                Console.WriteLine($"Card Listing Price:  ${price}");
+            }
+
+
         }
     }
 }
